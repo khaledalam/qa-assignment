@@ -1,19 +1,38 @@
-### QA Assignment v1.0
+### QA Assignment v2.0
 
-Hi {CANDIDATE_FIRST_NAME},
 
-as we review applications for {JOB_TITLE}, 
+## Part 1: Bug Report & Test Cases
 
-Could you please take this assignment:
+Download and install the Makyee mobile app (available on Android and iOS).
 
-1. Browse WEBSITE_URL and make small report consists of at least 3 bugs, issues and/or improvements on the website. Each reported item should have summary about the issue, actual output, expected output and how to reproduce the issue.
+Perform exploratory testing on the app, focusing on property search, user registration, and listing functionalities.
 
-2. Create automated test script that validate the favorite functionality when some guest try to favorite some property from property details page, assert the error the user get. Feel free to use any framework or method that you comfortable with.
+Identify and document at least 5 UI/UX issues or functional bugs in the mobile app.
 
-The clarity of the report and the impact level of the issues will be the main measurement.
+Create a bug report in a structured format (Title, Steps to Reproduce, Expected vs. Actual Behavior, and Screenshots if applicable).
 
-Send your submission to khaledalam.net@gmail.com
+Write at least 5 test cases for a property listing feature, covering different scenarios.
 
-Looking forward to hearing from you soon.
+## Part 2: Automation Task
 
-Sincerely
+- Write a simple automated test using Appium (JavaScript/Python) to do the following:
+  - Launch the Makyee mobile app.
+  - Perform a property search.
+  - Verify that the search results are displayed correctly.
+  - Take a screenshot of the search results page.
+  - Close the app.
+
+
+## Evaluation Criteria:
+The impact and significance of the identified issues.
+This assignment will help us evaluate your attention to detail, structured thinking, and ability to automate mobile app testing. We look forward to your application!
+
+## Submission:
+
+Candidates should submit:
+
+1. A document with their Bug Report & Test Cases.
+2. A link to a private repo on GitHub or a ZIP file containing their Appium automation script.
+3. Share your submittion to khaled.alam@makyee.com with the subject "Application of QA Engineer at Makyee - YOUR_NAME"
+
+
